@@ -32,4 +32,6 @@ Depois de terminadas as suas modificações, salve-as fazendo um commit. Neste p
 
 # Envie suas mudanças
 
-Você pode fazer quantos commits quiser. Assim que estiver tudo pronto você pode enviar suas modificações fazendo um *Pull Request*.
+Você pode fazer quantos commits quiser. Assim que estiver tudo pronto vá até a aba *Pull Requests* e encaminhe suas mudanças.
+
+FIM
